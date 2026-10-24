@@ -1,0 +1,12 @@
+{
+  "project_name": "CineMatch Movie Recommendation App",
+  "algorithm": "Content-based filtering",
+  "text_features": [
+    "genres",
+    "tags",
+    "description"
+  ],
+  "similarity": "Cosine similarity",
+  "rating_weight": 0.15,
+  "content_weight": 0.85
+}
